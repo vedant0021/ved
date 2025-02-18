@@ -1,0 +1,1 @@
+2025-01-26 12:58:32,046 - Error fetching weather data: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=London&appid=f6af6abad6a4885cdf3b059d16d5f58a60d&units=metric
